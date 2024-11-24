@@ -1,3 +1,3 @@
 <?php 
-	$baseurl = 'http://localhost/php-portfolio/';
+	$baseurl = 'http://localhost/PHP-Dynamic-first-Project-/php-portfolio/';
 ?>
